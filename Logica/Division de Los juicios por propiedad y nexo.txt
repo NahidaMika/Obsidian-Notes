@@ -1,0 +1,27 @@
+1. Yo soy mi padre (F) 
+2. No pueden sacarse más cosas de un envase de las que se tienen dentro (V) 
+3. Todos los ángulos rectos son idénticos entre sí (V)
+4. Algunos hombres que existen no han nacido (F) 
+5. Todos los hombres serán mas viejos mañana que hoy (V) 
+6. Ninguna A es mayor que B y ser menor al mismo tiempo (V)
+7. Nadie puede ser y no se al mismo tiempo (V) 
+8. Ninguna persona nace de un padre y una madre (F) 
+9. La fuerza de gravedad es opcional (F) 
+10. Todo el tiempo puede retroceder (F) 
+11. Ninguna fuerza de gravedad atrae las cosas hacia el suelo (F) 
+12. Un juicio no puede ser verdadero y falso (V)
+
+B) Nexo
+1. Para respirar ocupamos oxigeno.
+2. Un agulo recto tiene 90 grados.
+3. Todo arbol tiene tronco.
+4. Todos los gatos son felinos.
+5. La luz contiene fotones.
+6. Todos los tuberculos crecen bajo la superficie de la tierra.
+
+7. El dia esta lluvioso.
+8. Todos los elementos tienen la misma cantidad de protones como de neutrones.
+9. 
+10.
+11.
+12.
