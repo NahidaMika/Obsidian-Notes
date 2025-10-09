@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "03e16ffdac7d0f64",
+        "id": "503f5647bbad82db",
         "type": "tabs",
         "children": [
           {
-            "id": "d892794c24b4aac7",
+            "id": "f02905724d3d3dcf",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Logica/Tabla de la verdad.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Tabla de la verdad"
             }
           }
         ]
@@ -92,7 +96,7 @@
         }
       },
       {
-        "id": "db642fca24801371",
+        "id": "d2f2e88cbb13cf9a",
         "type": "leaf",
         "state": {
           "type": "mk-path-view",
@@ -114,6 +118,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "Logica/Deduccion logica y orden.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -193,10 +198,15 @@
       "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "d892794c24b4aac7",
+  "active": "f02905724d3d3dcf",
   "lastOpenFiles": [
-    "Philosophy/Francis Bacon 'The Idols'.md",
+    "Física/Calcs.excalidraw.md",
     "markdown-cheat-sheet.md",
+    "Logica/Tabla de la verdad.md",
+    "Logica/Tabla de Verdad (1).pdf",
+    "Logica/Deduccion logica y orden.md",
+    "Física/FreeFall&VerticalThrow.excalidraw.md",
+    "Philosophy/Francis Bacon 'The Idols'.md",
     "Tags"
   ]
 }
