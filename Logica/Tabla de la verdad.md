@@ -1,0 +1,22 @@
+> [!PDF|] [[Tabla de Verdad (1).pdf#page=1&selection=20,0,62,16|Tabla de Verdad (1), p.1]]
+> > a) Proposiciones. Dentro de las tablas de verdad, se trabajan con al menos 2 proposiciones, las cuales se simbolizan a través de letras continuas. Ej, “p” “q” “r” “s” Estas letras cumplen la función de resumir, representar y simbolizar las proposiciones en las tablas de verdad.
+
+> [!PDF|] [[Tabla de Verdad (1).pdf#page=1&selection=64,0,134,47|Tabla de Verdad (1), p.1]]
+> > b) Tabla de verdad. Es una representación gráfica y matemática que se muestra en forma de tabla, es un instrumento de la lógica para determinar los valores propiedad de una proposición compuesta, la tabla muestra todas las combinaciones posibles de los valores de verdad / propiedad (Verdadero o Falso) de sus proposiciones y el resultado de esa combinación. Estas tablas resultan importantes para identificar la validez de argumentos, evaluar las proposiciones y comprender cómo los operadores lógicos afectan el valor de verdad de las expresiones.
+
+> [!PDF|] [[Tabla de Verdad (1).pdf#page=1&selection=199,0,309,2|Tabla de Verdad (1), p.1]]
+> > c) Primer conector “Conjunción” Es un operador lógico que une dos proposiciones, resultando en un enunciado compuesto que es verdadero únicamente cuando ambas proposiciones son verdaderas. Símbolo: "∧" y en el lenguaje natural se lee como “Y” Ejemplo 1: p: Te regalaré flores / q: Te regalaré dulces. La unión de estas dos proposiciones sería: Te regalaré flores y dulces o Te regalaré flores y te regalaré dulces. Por lo cual usando el conector “Y” la proposición quedaría de la siguiente manera:
+
+> [!PDF|] [[Tabla de Verdad (1).pdf#page=2&selection=0,0,93,1|Tabla de Verdad (1), p.2]]
+> > d) Segundo conector “Disyunción” Es un conector que une dos proposiciones, es una operación lógica verdadera cuando al menos una de las proposiciones es verdadera, y es falsa únicamente si ambas proposiciones son falsas. Símbolo: "v" y en el lenguaje natural se lee como "Ó" Ejemplo 2: p: Te llevaré al parque / q: Te llevaré al cine. La unión de estas dos proposiciones sería: Te llevaré al parque o al cine / Te llevaré al parque o Te llevaré al cine. Por lo cual usando el conector “Ó” la proposición quedaría de la siguiente manera:
+
+> [!PDF|] [[Tabla de Verdad (1).pdf#page=2&selection=134,0,215,1|Tabla de Verdad (1), p.2]]
+> > e) Tercer operador “Negación” Es un operador lógico que invierte el valor de verdad de una proposición. Si una proposición es verdadera, su negación es falsa, y si es falsa, su negación es verdadera. Símbolo: “ ¬ ” y en el lenguaje natural se lee como "NO” Ejemplo 3: p: Tengo frío. La proposición sería: Tengo frio. Por lo cual usando el operador “NO” la proposición estaría siendo negada quedando de la siguiente manera: p ¬
+
+> [!PDF|] [[Tabla de Verdad (1).pdf#page=2&selection=231,0,339,1|Tabla de Verdad (1), p.2]]
+> > f) Cuarto conector “Condicional” Es un conector que afirma que si el antecedente (p) es verdadero, entonces el consecuente (q) también lo es. Se vuelve falso solo cuando el antecedente (p) es verdadero y el consecuente (q) es falso; en todos los demás casos, es verdadero. Símbolo: “ → ” y en el lenguaje natural se lee como "Entonces” Ejemplo 4: p: Tu estudias mucho / q: Te llevaré de viaje. La proposición condicional siempre se lee inicialmente como “Si” lo que se traduce como: Si tú estudias mucho, entonces te llevare de viaje. Por lo cual usando el conector “Entonces” la proposición quedaría de la siguiente manera
+
+> [!PDF|] [[Tabla de Verdad (1).pdf#page=3&selection=34,0,128,1|Tabla de Verdad (1), p.3]]
+> > g) Quinto conector “Bicondicional” También llamado doble implicación, es un conector que une dos proposiciones y establece que ambas deben tener el mismo valor de verdad para que la proposición resultante sea verdadera. Es verdadero cuando ambas proposiciones son verdaderas o ambas son falsas, mientras que es falso si tienen valores de verdad diferentes. Símbolo: "↔", y en el lenguaje natural se lee como: “Si y solo si” Ejemplo 4: p: Tu tendrás mucho lujos / q: Tu ahorras. La unión de estas dos proposiciones sería: Tu tendrás muchos lujos si y solo si tu ahorras. Por lo cual usando el conector “Si y solo sí” la proposición quedaría de la siguiente manera
+> 
+> 
