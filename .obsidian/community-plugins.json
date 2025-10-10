@@ -11,7 +11,6 @@
   "obsidian-dictionary-plugin",
   "editing-toolbar",
   "obsidian-excalidraw-plugin",
-  "excalibrain",
   "obsidian-excel-to-markdown-table",
   "obsidian-file-color",
   "highlightr-plugin",
@@ -35,5 +34,6 @@
   "obsidian-tasks-plugin",
   "text-extractor",
   "obsidian-text-format",
-  "various-complements"
+  "various-complements",
+  "excalibrain"
 ]
