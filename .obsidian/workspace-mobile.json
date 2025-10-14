@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "d5eee9c55f248856",
+        "id": "7460ef837c93cc71",
         "type": "tabs",
         "children": [
           {
-            "id": "19c6275b20537e33",
+            "id": "abdd0dd7e2c4c029",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -193,11 +193,16 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "19c6275b20537e33",
+  "active": "abdd0dd7e2c4c029",
   "lastOpenFiles": [
+    "Para el jueves.md",
+    "Philosophy/Etica de Kant.md",
+    "Física/Fundamental Forces.md",
+    "Física/FundamemtalForces.png",
+    "markdown-cheat-sheet.md",
+    "Educational Offer.md",
     "Philosophy/Rationalism & Empiricism.md",
     "Philosophy/Drawing 2025-10-13 12.19.33.excalidraw.md",
-    "markdown-cheat-sheet.md",
     "Logica/Tabla de Verdad (1).pdf",
     "Física/ParbolicShot.md",
     "Logica/Tabla de la verdad.md",

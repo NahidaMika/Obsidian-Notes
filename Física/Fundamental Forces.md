@@ -4,9 +4,9 @@
 	$$F_{g} = \frac{Gm_{1}m_{2}}{r^{2}} $$
 	where,
 	
-	- Fg is the gravitational force
+	- F<sub>g</sub> is the gravitational force
 	- G is the universal gravitational constant
-	- m1 and m2 are the masses of the objects in consideration
+	- m<sub>1</sub> and m<sub>2</sub> are the masses of the objects in consideration
 	- r is the distance between the centers of the two objects in consideration
 
 - ***Electromagnetic force***.

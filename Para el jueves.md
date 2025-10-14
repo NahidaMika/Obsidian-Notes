@@ -1,0 +1,4 @@
+- 2 Paquetes de vendas de yeso.
+- Recipiente largo para remojar la venda
+- Vaseline o crema.
+- Material para decorar.
