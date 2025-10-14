@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Física/Fundamental Forces.md",
+                "file": "Educational Offer.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Fundamental Forces"
+              "title": "Educational Offer"
             }
           }
         ]
@@ -182,8 +182,9 @@
   },
   "active": "7f49e2a0d4fde619",
   "lastOpenFiles": [
-    "Física/FundamemtalForces.png",
     "Física/Fundamental Forces.md",
+    "Educational Offer.md",
+    "Física/FundamemtalForces.png",
     "gravitational-formula.png",
     "markdown-cheat-sheet.md",
     "Física/Mind map Fundamental Forces.png"
