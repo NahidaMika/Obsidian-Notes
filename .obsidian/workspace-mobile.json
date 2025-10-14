@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "bdbbd57f83c0423a",
+        "id": "d5eee9c55f248856",
         "type": "tabs",
         "children": [
           {
-            "id": "e6d22ebfcf775fb9",
+            "id": "19c6275b20537e33",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Philosophy/Rationalism & Empiricism.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Rationalism & Empiricism"
+              "title": "New tab"
             }
           }
         ]
@@ -193,10 +189,10 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "e6d22ebfcf775fb9",
+  "active": "19c6275b20537e33",
   "lastOpenFiles": [
-    "Philosophy/Drawing 2025-10-13 12.19.33.excalidraw.md",
     "Philosophy/Rationalism & Empiricism.md",
+    "Philosophy/Drawing 2025-10-13 12.19.33.excalidraw.md",
     "markdown-cheat-sheet.md",
     "Logica/Tabla de Verdad (1).pdf",
     "Física/ParbolicShot.md",
