@@ -11,10 +11,14 @@
             "id": "19c6275b20537e33",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Física/Fundamental Forces.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Fundamental Forces"
             }
           }
         ]
@@ -114,7 +118,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Philosophy/Rationalism & Empiricism.md",
+            "file": "Física/Fundamental Forces.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
