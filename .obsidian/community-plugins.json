@@ -35,5 +35,7 @@
   "text-extractor",
   "obsidian-text-format",
   "various-complements",
-  "excalibrain"
+  "excalibrain",
+  "obsidian-latex-suite",
+  "calctex"
 ]
