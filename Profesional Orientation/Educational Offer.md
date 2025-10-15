@@ -91,15 +91,14 @@
 |||Análisis y Procesamiento Inteligente de Textos|Curso Teórico|OPTATIVO|4.0|0.0|64.0|8|
 |||Administración de Redes|Curso Teórico-Práctico|OPTATIVO|3.0|2.0|80.0|8|
 
-## Universidad Nacional Autónoma De México
+## Enrollment and Graduation (General Data)
 
-2022: 257,747, Matriculados
-
-2022 : 52.5%, Porcentaje de mujeres matriculadas
-
-2021-2022: 0.026%, Variación de matrículas
-
-2022 : 10,181, Titulados
+| Indicator                            | Value   |
+| ------------------------------------ | ------- |
+| **Enrolled Students (2022)**         | 257,747 |
+| **% of Enrolled Women (2022)**       | 52.5%,  |
+| **Enrollment Variation (2021-2022)** | 0.026%  |
+| **Graduates (2022)**                 |  10,181 |
 
 ## Profiles
 ### Admission Requirements
@@ -149,7 +148,7 @@ Additionally, the Technical Council of the Faculty of Engineering has stipulated
 
 # UAdeC (Ingenieria en Sistemas Computacionales)
 
-> .,l,kkkkkkkkk- History 
+>-  History 
 >> Universidad Autónoma de Coahuila (UAdeC) was founded in 1957, with key earlier institutions like the Ateneo Fuente and the School of Laws dating back to 1867 and 1943, respectively. The university achieved autonomy in 1973, and later became a pioneer in Mexico by implementing open learning systems in 1972 and 1974. Today, it is a public university with campuses in Saltillo, Torreón, and Norte, offering a wide range of programs
 
 ### Posición de la UAdeC en THE Ranking, 2022-2024.
