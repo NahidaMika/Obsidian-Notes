@@ -8,17 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "de3f971697a77b6c",
+            "id": "ebd67ffdb7544e2a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Profesional Orientation/Educational Offer.md",
+                "file": "Logica/Actividad Cuadro de oposicion y Tabla de Verdad.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Educational Offer"
+              "title": "Actividad Cuadro de oposicion y Tabla de Verdad"
             }
           }
         ]
@@ -118,7 +118,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Física/Fundamental Forces.md",
+            "file": "Logica/Actividad Cuadro de oposicion y Tabla de Verdad.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -193,8 +193,11 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "de3f971697a77b6c",
+  "active": "ebd67ffdb7544e2a",
   "lastOpenFiles": [
+    "Profesional Orientation/Educational Offer.md",
+    "Logica/Actividad Cuadro de oposicion y Tabla de Verdad.md",
+    "Logica/Tabla de Verdad (1).pdf",
     "Física/Fundamental Forces.md",
     "Para el jueves.md",
     "Philosophy/Etica de Kant.md",
@@ -203,7 +206,6 @@
     "Educational Offer.md",
     "Philosophy/Rationalism & Empiricism.md",
     "Philosophy/Drawing 2025-10-13 12.19.33.excalidraw.md",
-    "Logica/Tabla de Verdad (1).pdf",
     "Física/ParbolicShot.md",
     "Logica/Tabla de la verdad.md",
     "Física/Calcs.excalidraw.md",
