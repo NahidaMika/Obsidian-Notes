@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "7460ef837c93cc71",
+        "id": "d4a897d26c319942",
         "type": "tabs",
         "children": [
           {
-            "id": "abdd0dd7e2c4c029",
+            "id": "de3f971697a77b6c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Física/Fundamental Forces.md",
+                "file": "Profesional Orientation/Educational Offer.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Fundamental Forces"
+              "title": "Educational Offer"
             }
           }
         ]
@@ -193,11 +193,11 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "abdd0dd7e2c4c029",
+  "active": "de3f971697a77b6c",
   "lastOpenFiles": [
+    "Física/Fundamental Forces.md",
     "Para el jueves.md",
     "Philosophy/Etica de Kant.md",
-    "Física/Fundamental Forces.md",
     "Física/FundamemtalForces.png",
     "markdown-cheat-sheet.md",
     "Educational Offer.md",
