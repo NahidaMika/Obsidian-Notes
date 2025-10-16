@@ -8,13 +8,15 @@
         "type": "tabs",
         "children": [
           {
-            "id": "2d5e5fa4dea331cf",
+            "id": "8636f71c45514b93",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "type": "excalidraw",
+              "state": {
+                "file": "Física/Force&Weight.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Force&Weight"
             }
           }
         ]
@@ -188,8 +190,11 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "2d5e5fa4dea331cf",
+  "active": "8636f71c45514b93",
   "lastOpenFiles": [
+    "Física/Untitled.md",
+    "Física/NormalForce&InclinedPlane.md",
+    "Física/Force&Weight.md",
     "Logica/Actividad Cuadro de oposicion y Tabla de Verdad.md",
     "Logica/Deduccion logica y orden.md",
     "Física/Fundamental Forces.md",
