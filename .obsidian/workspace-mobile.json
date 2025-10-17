@@ -11,12 +11,14 @@
             "id": "2e5b920f83b719f2",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Calculo/Drawing 2025-10-16 15.07.37.excalidraw.md"
+                "file": "Philosophy/Actividad Cuadro de oposicion y Tabla de Verdad.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2025-10-16 15.07.37.excalidraw"
+              "icon": "lucide-file",
+              "title": "Actividad Cuadro de oposicion y Tabla de Verdad"
             }
           }
         ]
@@ -190,9 +192,12 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "e4431cf7cb03bee2",
+  "active": "2e5b920f83b719f2",
   "lastOpenFiles": [
     "Calculo/Drawing 2025-10-16 15.07.37.excalidraw.md",
+    "Logica/Actividad Cuadro de oposicion y Tabla de Verdad.md",
+    "FOREIGN LANGUAGE/REPORT.md",
+    "FOREIGN LANGUAGE",
     "Física/Force&Weight.md",
     "Calculo",
     "Física/Untitled.md",
