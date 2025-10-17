@@ -8,15 +8,15 @@
         "type": "tabs",
         "children": [
           {
-            "id": "8636f71c45514b93",
+            "id": "2e5b920f83b719f2",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Física/Force&Weight.md"
+                "file": "Calculo/Drawing 2025-10-16 15.07.37.excalidraw.md"
               },
               "icon": "excalidraw-icon",
-              "title": "Force&Weight"
+              "title": "Drawing 2025-10-16 15.07.37.excalidraw"
             }
           }
         ]
@@ -190,12 +190,14 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "8636f71c45514b93",
+  "active": "e4431cf7cb03bee2",
   "lastOpenFiles": [
+    "Calculo/Drawing 2025-10-16 15.07.37.excalidraw.md",
+    "Física/Force&Weight.md",
+    "Calculo",
     "Física/Untitled.md",
     "Física/NormalForce&InclinedPlane.md",
-    "Física/Force&Weight.md",
-    "Logica/Actividad Cuadro de oposicion y Tabla de Verdad.md",
+    "Philosophy/Actividad Cuadro de oposicion y Tabla de Verdad.md",
     "Logica/Deduccion logica y orden.md",
     "Física/Fundamental Forces.md",
     "Física/FundamemtalForces.png",
