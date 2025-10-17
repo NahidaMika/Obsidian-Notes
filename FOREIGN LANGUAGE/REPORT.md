@@ -4,4 +4,4 @@ The session primarily served as a guide for recognizing **non-obvious emotional 
 
 The presentation concluded with a strong call for relationships to be built on a foundation of **respect, trust, and transparent communication**, highlighting that knowing these toxic patterns is essential for setting **boundaries** and supporting a respectful environment for everyone.
 
-In my personal opinion I agree that relationships are built specially on trust and respect, also the communication is an essential aspect of a relationship because if there's a problem it should be solved by talking 
+In my personal opinion I agree that relationships are built specially on trust and respect, also the communication is an essential aspect of a good relationship, because if there's a problem it should be solved by talking and not my any other means. 
