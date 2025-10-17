@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Profesional Orientation/Educational Offer.md",
+                "file": "FOREIGN LANGUAGE/REPORT.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Educational Offer"
+              "title": "REPORT"
             }
           }
         ]
@@ -182,10 +182,13 @@
   },
   "active": "4f60b6a9f3916e5c",
   "lastOpenFiles": [
+    "Logica/Actividad Cuadro de oposicion y Tabla de Verdad.md",
+    "FOREIGN LANGUAGE/REPORT.md",
+    "FOREIGN LANGUAGE",
+    "Profesional Orientation/Educational Offer.md",
     "Philosophy/Etica de Kant.md",
     "Para el jueves.md",
     "markdown-cheat-sheet.md",
-    "Profesional Orientation/Educational Offer.md",
     "Profesional Orientation",
     "Física/Fundamental Forces.md",
     "Física/FundamemtalForces.png",
