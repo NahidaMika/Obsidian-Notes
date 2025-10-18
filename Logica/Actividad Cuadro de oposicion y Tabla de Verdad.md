@@ -57,18 +57,32 @@
 
 2. Para realizar una tabla de la verdad vamos a tomar en cuenta las siguientes proposiciones como variables. De cada uno ellos deberas realizar una Conjuncion, Disyuncion, Condicional, Biconditional y Negacion.
 
-| a   | b   | c   | a^b |
-| --- | --- | --- | --- |
-| V   | V   | V   |     |
-| V   | V   | V   |     |
-| F   | F   | F   |     |
-| F   | F   | F   |     |
+| p   | q   | r   | p^q | q^r | p^r | p<sub>v</sub>q | q<sub>v</sub>r | p<sub>v</sub>r | p¬  | q¬  | r¬  | p→q | p→r | q→r | p↔q | p↔r | q↔r |
+| --- | --- | --- | --- | --- | --- | -------------- | -------------- | -------------- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| V   | V   | V   | V   | V   | V   | V              | V              | V              | F   | F   | F   | V   | V   | V   | V   | V   | V   |
+| V   | V   | F   | V   | F   | F   | V              | V              | V              | F   | F   | V   | V   | F   | F   | V   | F   | F   |
+| V   | F   | V   | F   | F   | V   | V              | V              | V              | F   | V   | F   | F   | V   | V   | F   | V   | F   |
+| V   | F   | F   | F   | F   | F   | V              | F              | V              | F   | V   | V   | F   | F   | V   | F   | F   | V   |
+| F   | V   | V   | F   | V   | F   | V              | V              | V              | V   | F   | F   | V   | V   | V   | F   | F   | V   |
+| F   | V   | F   | F   | F   | F   | V              | V              | F              | V   | F   | V   | V   | V   | F   | F   | V   | F   |
+| F   | F   | V   | F   | F   | F   | F              | V              | V              | V   | V   | F   | V   | V   | V   | V   | F   | F   |
+| F   | F   | F   | F   | F   | F   | F              | F              | F              | V   | V   | V   | V   | V   | V   | V   | V   | V   |
 
 
 
 <br>
 
 3. Sobre las mismas variables, deberas realizar 10 combinaciones multiples con 3 conectores u operadores
- 
+
+- El examen es dificil **y** estudie toda la noche **entonces** saque una buena calificacion.
+- El examen es dificil **entonces** estudie toda la noche **y** saque una buena calificacion.
+- El examen es dificil **no** estudie toda la noche **y** saque una buena calificacion.
+- Saque una buena calificacion **y** estudie toda la noche **entonces** el examen **no** es dificil.
+- **No** estudie toda la noche **entonces** el examen es dificil **y** saque una buena calificacion.
+- El examen **no** es dificil **si y solo si** estudie toda la noche **entonces** saque buena calificacion.
+- **No** saque una buena calificacion **y** estudie toda la noche **entonces** el examen es dificil.
+- Estudie toda la noche **si y solo si** el examen es dificil **o** saque una buena calificacion.
+- **No** saque una buena calificacion **o** el examen es dificil **y** estudie toda la noche.
+- **No** saque una buena calificacion **entonces no** estudie toda la noche **o** el examen es dificil.
 
 
