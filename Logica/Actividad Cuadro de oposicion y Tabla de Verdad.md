@@ -85,4 +85,4 @@
 - **No** saque una buena calificacion **o** el examen es dificil **y** estudie toda la noche.
 - **No** saque una buena calificacion **entonces no** estudie toda la noche **o** el examen es dificil.
 
-dadad
+
